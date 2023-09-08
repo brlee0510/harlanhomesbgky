@@ -1,1 +1,86 @@
-{"id":40,"date":"2021-04-01T18:32:52","date_gmt":"2021-04-01T18:32:52","guid":{"rendered":"http:\/\/new.harlanhomesbgky.com\/?page_id=40"},"modified":"2021-12-09T14:54:57","modified_gmt":"2021-12-09T14:54:57","slug":"home","status":"publish","type":"page","link":"http:\/\/harlanhomesbgky.com\/","title":{"rendered":"Home"},"content":{"rendered":"<p>[vc_row full_width=&#8221;stretch_row_content&#8221;][vc_column][vc_single_image image=&#8221;60&#8243; img_size=&#8221;full&#8221; alignment=&#8221;center&#8221;][\/vc_column][\/vc_row][vc_row el_class=&#8221;vc-col-no-pt&#8221;][vc_column][g5element_space spacing=&#8221;77&#8243;][g5element_heading layout_style=&#8221;style-02&#8243; title=&#8221;Homes for Sale&#8221; subtitle=&#8221;Check out these Premier Properties&#8221;][g5element_space spacing=&#8221;40&#8243;][g5element_properties item_skin=&#8221;skin-02&#8243; posts_per_page=&#8221;6&#8243; property_type=&#8221;9&#8243; columns_xl=&#8221;3&#8243; columns_lg=&#8221;3&#8243; columns_md=&#8221;2&#8243; columns_sm=&#8221;1&#8243; columns=&#8221;1&#8243; post_image_ratio_width=&#8221;370&#8243; post_image_ratio_height=&#8221;210&#8243;][g5element_space spacing=&#8221;20&#8243;][\/vc_column][\/vc_row][vc_row el_class=&#8221;vc-col-no-pt&#8221;][vc_column][g5element_space spacing=&#8221;77&#8243;][g5element_heading layout_style=&#8221;style-02&#8243; title=&#8221;Sold&#8221;][g5element_space spacing=&#8221;40&#8243;][g5element_properties item_skin=&#8221;skin-02&#8243; posts_per_page=&#8221;6&#8243; property_type=&#8221;8&#8243; columns_xl=&#8221;3&#8243; columns_lg=&#8221;3&#8243; columns_md=&#8221;2&#8243; columns_sm=&#8221;1&#8243; columns=&#8221;1&#8243; post_image_ratio_width=&#8221;370&#8243; post_image_ratio_height=&#8221;210&#8243;][g5element_space spacing=&#8221;20&#8243;][\/vc_column][\/vc_row]<\/p>\n","protected":false},"excerpt":{"rendered":"<p>[vc_row full_width=&#8221;stretch_row_content&#8221;][vc_column][vc_single_image image=&#8221;60&#8243; img_size=&#8221;full&#8221; alignment=&#8221;center&#8221;][\/vc_column][\/vc_row][vc_row el_class=&#8221;vc-col-no-pt&#8221;][vc_column][g5element_space spacing=&#8221;77&#8243;][g5element_heading layout_style=&#8221;style-02&#8243; title=&#8221;Homes for Sale&#8221; subtitle=&#8221;Check out these Premier Properties&#8221;][g5element_space spacing=&#8221;40&#8243;][g5element_properties item_skin=&#8221;skin-02&#8243; posts_per_page=&#8221;6&#8243; property_type=&#8221;9&#8243; columns_xl=&#8221;3&#8243; columns_lg=&#8221;3&#8243; columns_md=&#8221;2&#8243; columns_sm=&#8221;1&#8243; columns=&#8221;1&#8243; post_image_ratio_width=&#8221;370&#8243; post_image_ratio_height=&#8221;210&#8243;][g5element_space spacing=&#8221;20&#8243;][\/vc_column][\/vc_row][vc_row el_class=&#8221;vc-col-no-pt&#8221;][vc_column][g5element_space spacing=&#8221;77&#8243;][g5element_heading layout_style=&#8221;style-02&#8243; title=&#8221;Sold&#8221;][g5element_space spacing=&#8221;40&#8243;][g5element_properties item_skin=&#8221;skin-02&#8243; posts_per_page=&#8221;6&#8243; property_type=&#8221;8&#8243; columns_xl=&#8221;3&#8243; columns_lg=&#8221;3&#8243; columns_md=&#8221;2&#8243; columns_sm=&#8221;1&#8243; columns=&#8221;1&#8243; post_image_ratio_width=&#8221;370&#8243; post_image_ratio_height=&#8221;210&#8243;][g5element_space spacing=&#8221;20&#8243;][\/vc_column][\/vc_row]<\/p>\n","protected":false},"author":1,"featured_media":0,"parent":0,"menu_order":0,"comment_status":"closed","ping_status":"closed","template":"","meta":[],"_links":{"self":[{"href":"http:\/\/harlanhomesbgky.com\/wp-json\/wp\/v2\/pages\/40"}],"collection":[{"href":"http:\/\/harlanhomesbgky.com\/wp-json\/wp\/v2\/pages"}],"about":[{"href":"http:\/\/harlanhomesbgky.com\/wp-json\/wp\/v2\/types\/page"}],"author":[{"embeddable":true,"href":"http:\/\/harlanhomesbgky.com\/wp-json\/wp\/v2\/users\/1"}],"replies":[{"embeddable":true,"href":"http:\/\/harlanhomesbgky.com\/wp-json\/wp\/v2\/comments?post=40"}],"version-history":[{"count":22,"href":"http:\/\/harlanhomesbgky.com\/wp-json\/wp\/v2\/pages\/40\/revisions"}],"predecessor-version":[{"id":200,"href":"http:\/\/harlanhomesbgky.com\/wp-json\/wp\/v2\/pages\/40\/revisions\/200"}],"wp:attachment":[{"href":"http:\/\/harlanhomesbgky.com\/wp-json\/wp\/v2\/media?parent=40"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
+{
+    "id": 40,
+    "date": "2021-04-01T18:32:52",
+    "date_gmt": "2021-04-01T18:32:52",
+    "guid": {
+        "rendered": "http:\/\/new.harlanhomesbgky.com\/?page_id=40"
+    },
+    "modified": "2021-12-09T14:54:57",
+    "modified_gmt": "2021-12-09T14:54:57",
+    "slug": "home",
+    "status": "publish",
+    "type": "page",
+    "link":"https:\/\/harlanhomesbgky\.com\/",
+    "title": {
+        "rendered": "Home"
+    },
+    "content": {
+        "rendered": "<p>[vc_row full_width=&#8221;stretch_row_content&#8221;][vc_column][vc_single_image image=&#8221;60&#8243; img_size=&#8221;full&#8221; alignment=&#8221;center&#8221;][\/vc_column][\/vc_row][vc_row el_class=&#8221;vc-col-no-pt&#8221;][vc_column][g5element_space spacing=&#8221;77&#8243;][g5element_heading layout_style=&#8221;style-02&#8243; title=&#8221;Homes for Sale&#8221; subtitle=&#8221;Check out these Premier Properties&#8221;][g5element_space spacing=&#8221;40&#8243;][g5element_properties item_skin=&#8221;skin-02&#8243; posts_per_page=&#8221;6&#8243; property_type=&#8221;9&#8243; columns_xl=&#8221;3&#8243; columns_lg=&#8221;3&#8243; columns_md=&#8221;2&#8243; columns_sm=&#8221;1&#8243; columns=&#8221;1&#8243; post_image_ratio_width=&#8221;370&#8243; post_image_ratio_height=&#8221;210&#8243;][g5element_space spacing=&#8221;20&#8243;][\/vc_column][\/vc_row][vc_row el_class=&#8221;vc-col-no-pt&#8221;][vc_column][g5element_space spacing=&#8221;77&#8243;][g5element_heading layout_style=&#8221;style-02&#8243; title=&#8221;Sold&#8221;][g5element_space spacing=&#8221;40&#8243;][g5element_properties item_skin=&#8221;skin-02&#8243; posts_per_page=&#8221;6&#8243; property_type=&#8221;8&#8243; columns_xl=&#8221;3&#8243; columns_lg=&#8221;3&#8243; columns_md=&#8221;2&#8243; columns_sm=&#8221;1&#8243; columns=&#8221;1&#8243; post_image_ratio_width=&#8221;370&#8243; post_image_ratio_height=&#8221;210&#8243;][g5element_space spacing=&#8221;20&#8243;][\/vc_column][\/vc_row]<\/p>\n",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>[vc_row full_width=&#8221;stretch_row_content&#8221;][vc_column][vc_single_image image=&#8221;60&#8243; img_size=&#8221;full&#8221; alignment=&#8221;center&#8221;][\/vc_column][\/vc_row][vc_row el_class=&#8221;vc-col-no-pt&#8221;][vc_column][g5element_space spacing=&#8221;77&#8243;][g5element_heading layout_style=&#8221;style-02&#8243; title=&#8221;Homes for Sale&#8221; subtitle=&#8221;Check out these Premier Properties&#8221;][g5element_space spacing=&#8221;40&#8243;][g5element_properties item_skin=&#8221;skin-02&#8243; posts_per_page=&#8221;6&#8243; property_type=&#8221;9&#8243; columns_xl=&#8221;3&#8243; columns_lg=&#8221;3&#8243; columns_md=&#8221;2&#8243; columns_sm=&#8221;1&#8243; columns=&#8221;1&#8243; post_image_ratio_width=&#8221;370&#8243; post_image_ratio_height=&#8221;210&#8243;][g5element_space spacing=&#8221;20&#8243;][\/vc_column][\/vc_row][vc_row el_class=&#8221;vc-col-no-pt&#8221;][vc_column][g5element_space spacing=&#8221;77&#8243;][g5element_heading layout_style=&#8221;style-02&#8243; title=&#8221;Sold&#8221;][g5element_space spacing=&#8221;40&#8243;][g5element_properties item_skin=&#8221;skin-02&#8243; posts_per_page=&#8221;6&#8243; property_type=&#8221;8&#8243; columns_xl=&#8221;3&#8243; columns_lg=&#8221;3&#8243; columns_md=&#8221;2&#8243; columns_sm=&#8221;1&#8243; columns=&#8221;1&#8243; post_image_ratio_width=&#8221;370&#8243; post_image_ratio_height=&#8221;210&#8243;][g5element_space spacing=&#8221;20&#8243;][\/vc_column][\/vc_row]<\/p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": [],
+    "_links": {
+        "self": [
+            {
+                "href":"https:\/\/harlanhomesbgky\.com\/wp-json\/wp\/v2\/pages\/40"
+            }
+        ],
+        "collection": [
+            {
+                "href":"https:\/\/harlanhomesbgky\.com\/wp-json\/wp\/v2\/pages"
+            }
+        ],
+        "about": [
+            {
+                "href":"https:\/\/harlanhomesbgky\.com\/wp-json\/wp\/v2\/types\/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href":"https:\/\/harlanhomesbgky\.com\/wp-json\/wp\/v2\/users\/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href":"https:\/\/harlanhomesbgky\.com\/wp-json\/wp\/v2\/comments?post=40"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 22,
+                "href":"https:\/\/harlanhomesbgky\.com\/wp-json\/wp\/v2\/pages\/40\/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 200,
+                "href":"https:\/\/harlanhomesbgky\.com\/wp-json\/wp\/v2\/pages\/40\/revisions\/200"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href":"https:\/\/harlanhomesbgky\.com\/wp-json\/wp\/v2\/media?parent=40"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}
